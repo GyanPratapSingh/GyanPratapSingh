@@ -5,7 +5,7 @@
 - 🌱 I’m currently deepening my knowledge in Kotlin, Jetpack Compose, XML, and Java to create intuitive and high-performance mobile apps.
 - 💼 I’m working as a Software Developer at Walking Tree Technology, Agra, where I contribute to cutting-edge mobile development projects.
 - 💞️ I’m looking to collaborate on open-source projects that align with Android development, especially those focusing on Kotlin and Jetpack Compose.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gyanpratapsingh) | [Email](mailto:gyanpratap.singh@example.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gyanpratapsingh) | [Email](mailto:gyanprataps60@gmail.com )
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When I'm not coding, you can find me exploring the latest tech gadgets or playing strategy-based games!
 
