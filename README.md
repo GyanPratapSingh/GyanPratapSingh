@@ -1,5 +1,5 @@
 
-                 👋 Hi, I’m Gyan Pratap Singh
+  👋 Hi, I’m Gyan Pratap Singh
 
 - 👀 I’m interested in building robust Android applications and exploring modern UI frameworks like Jetpack Compose.
 - 🌱 I’m currently deepening my knowledge in Kotlin, Jetpack Compose, XML, and Java to create intuitive and high-performance mobile apps.
